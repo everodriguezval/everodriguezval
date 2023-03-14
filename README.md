@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🌱 Graduated from the [Just IT](https://www.justit.co.uk/) bootcamp (Nov 2022 cohort)
 - 👯 I’m looking to collaborate on new projects to gain more experience in programming
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing 💃 and going on hikes 🌍
 
