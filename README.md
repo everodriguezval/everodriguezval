@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🌱 Graduated from the [Just IT](https://www.justit.co.uk/) bootcamp (Nov 2022 cohort)
-- ❤️ I am passionate about creating user-friendly products for clients using best practices and modern technologies.
+- ❤️ I am passionate about creating user-friendly products for clients using best practices and modern technologies
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing 💃 and going on hikes 🌍
 
