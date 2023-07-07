@@ -2,16 +2,15 @@
 
 - 🔭 I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🌱 Graduated from the [Just IT](https://www.justit.co.uk/) bootcamp (Nov 2022 cohort)
-- 👯 I’m looking to collaborate on new projects to gain more experience in programming
+- ❤️ I am passionate about creating user-friendly products for clients using best practices and modern technologies.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing 💃 and going on hikes 🌍
 
-After completing my degree in Biology, I worked for three years in research working with DNA samples in a laboratory. A key part of this role was performing analysis using specialist biological software - it was through this that I discovered my passion for using technology to solve problems.
+After graduating in Biology, I worked in research performing analysis with specialist biological software to solve real-world problems. 
 
-I completed a self-funded twelve-week intensive Software Development bootcamp course where I learned the fundamentals of Front and Back-end development. I have enjoyed this journey very much and I am currently working as a Software Engineer consultant at Xander Talent. 
+I completed a self-funded Software Development bootcamp where I learned the fundamentals of Front and Back-end development. I have enjoyed this journey very much and I am currently working as a Software Engineer consultant at Xander Talent. 
 
-A proactive dedicated professional, I am excited to take on new challenges and gain experience to grow as a developer! ✨
-
+A proactive dedicated professional who thrives in a collaborative working environment, I am excited to take on new challenges and gain experience to grow as a developer! ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everodriguezval&layout=compact)](https://github.com/everodriguezval/github-readme-stats)
 
