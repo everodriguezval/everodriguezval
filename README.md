@@ -2,14 +2,11 @@
 
 - 🔭 Worked as academy team leader at [Quantexa](https://www.quantexa.com/) helping others to understand the complex Quantexa platform
 - 🎓 Worked for 2 years at [Xander Talent](https://www.xandertalent.com/) after software development training
-- 🌱 Graduated from the [Just IT](https://www.justit.co.uk/) software development bootcamp (Nov 2022 cohort)
-- ❤️ I am passionate about learning  using best practices and modern technologies
+- 🌱 Graduated from the [Just IT](https://www.justit.co.uk/) software development bootcamp (Nov 2022 cohort) 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing 💃 and going on hikes 🌍
 
-Passionate software developer with hands-on experience in consulting with extensive technical knowledge.
-
-While excelling in coding, I discovered a strong passion for teaching and guiding others during my time in the Quantexa academy team, where I effectively helped trainees navigate complex systems and concepts. 
+❤️ While excelling in coding, I discovered a strong passion for teaching and guiding others during my time in the Quantexa academy team, where I effectively helped trainees navigate complex systems and concepts. 
 
 Now seeking to pivot into a more interactive and people-focused role where I can combine my technical knowledge with my excellent communication skills ✨
 
