@@ -6,9 +6,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing 💃 and going on hikes 🌍
 
-❤️ While excelling in coding, I discovered a strong passion for teaching and guiding others during my time in the Quantexa academy team, where I effectively helped trainees navigate complex systems and concepts. 
-
-Now seeking to pivot into a more interactive and people-focused role where I can combine my technical knowledge with my excellent communication skills ✨
+❤️ My experience mentoring trainees and supporting learning processes has strengthened my communication and problem-solving abilities. Now looking to leverage my technical knowledge and excellent interpersonal skills to drive success in a dynamic, team-oriented environment ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everodriguezval&layout=compact)](https://github.com/everodriguezval/github-readme-stats)
 
